@@ -21,7 +21,7 @@ export default {
       colors: {
         primary: '#0c0c0c',
         secondary: '#dcca87',
-        whitelight: '#fafafa',
+        grey: '#B9B6B6',
         accent: '#c39901',
       },
       // boxShadow: {
