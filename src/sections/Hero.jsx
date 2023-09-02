@@ -1,5 +1,5 @@
 import { becalm, headerBg, spoonFlat } from '../assets';
-import Button from './Button';
+import Button from '../components/Button';
 import { FaArrowRight } from 'react-icons/fa';
 
 const Hero = () => {
@@ -18,8 +18,8 @@ const Hero = () => {
       </div>
       <div className='content z-10 text-center bg-[rgba(0,0,0,.7)] w-full h-full flex flex-col justify-center items-center'>
         <div className=''>
-          <p className='text-center'>
-            Chase The Flavor <span className='text-[1.4rem]'>@</span>
+          <p className='text-center text-grey'>
+            Chase The Flavor <span className='text-[1.4rem] font-bold'>@</span>
           </p>
           <div className='flex'>
             <img src={spoonFlat} alt='spoon' />
