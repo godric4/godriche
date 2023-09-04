@@ -4,5 +4,5 @@ import Button from './Button';
 import Title from './Title';
 import BigTitle from './BigTitle';
 import CardOne from './CardOne';
-
-export { Navbar, Footer, Button, Title, BigTitle, CardOne };
+import Sidebar from './Sidebar';
+export { Navbar, Footer, Button, Title, BigTitle, CardOne, Sidebar };

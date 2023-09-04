@@ -56,7 +56,7 @@ const Footer = () => {
       </div>
       <div className='text-center mt-5 pb-3'>
         <p>
-          &copy; 2021 <span> G&ouml;drich&eacute;</span>. All Rights Reserved
+          &copy; 2023 <span> G&ouml;drich&eacute;</span>. All Rights Reserved
         </p>
       </div>
     </footer>

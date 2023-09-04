@@ -68,16 +68,20 @@ export const todayGrills = [
 
 export const links = [
   {
-    label: 'Contact ',
-    path: '/contact',
+    label: 'About ',
+    path: '/about',
   },
   {
-    label: 'Contact ',
-    path: '/contact',
+    label: 'Menu ',
+    path: 'menu',
   },
   {
-    label: 'Contact ',
-    path: '/contact',
+    label: 'Events ',
+    path: '/events',
+  },
+  {
+    label: 'Reservations ',
+    path: '/reservations',
   },
   {
     label: 'Contact ',

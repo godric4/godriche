@@ -35,7 +35,7 @@ const Home = () => {
       <section>
         <Reservation />
       </section>
-      <section className='mt-7'>
+      <section className='mt-7' id='menu'>
         <Title label='Culinary masterpiece' />
         <BigTitle label='Our Menus' />
         <div className='container   mt-5'>
