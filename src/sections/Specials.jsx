@@ -4,7 +4,7 @@ import { todayDrinks, todayGrills } from '../utils/constants';
 
 const Specials = () => {
   return (
-    <section className=' mt-10'>
+    <section className=' mt-1'>
       <div className='container pt-6'>
         <Title label='Menu that fits your pallete' />
         <BigTitle label="today's special" />

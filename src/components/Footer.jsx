@@ -43,6 +43,7 @@ const Footer = () => {
             <span>07:00am - 11:00pm</span>
           </p>
         </div>
+
         {/*  */}
         <div className='flex flex-col justify-center items-center mt-5'>
           <h3 className='font-semibold mt-2 text-[1.2rem]'>Contact Us</h3>

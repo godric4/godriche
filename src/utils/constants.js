@@ -1,3 +1,15 @@
+import {
+  barbecue,
+  berryMe,
+  chicken,
+  cocktail,
+  coquet,
+  iceOnRock,
+  lemon,
+  sixpacks,
+  whitewine,
+} from '../assets';
+
 export const todayDrinks = [
   {
     name: 'Dark "N" Stormy',
@@ -70,5 +82,41 @@ export const links = [
   {
     label: 'Contact ',
     path: '/contact',
+  },
+];
+
+export const menuCardDetails = [
+  {
+    label: 'Cocktails',
+    bgImg: cocktail,
+  },
+  {
+    label: 'Grills',
+    bgImg: chicken,
+  },
+  {
+    label: 'Wine',
+    bgImg: whitewine,
+  },
+  {
+    label: 'Appetizers',
+    bgImg: coquet,
+  },
+  {
+    label: 'Beer',
+    bgImg: sixpacks,
+  },
+
+  {
+    label: 'Desserts',
+    bgImg: barbecue,
+  },
+  {
+    label: 'Smoothies & Juice',
+    bgImg: lemon,
+  },
+  {
+    label: 'Margaritas',
+    bgImg: iceOnRock,
   },
 ];
