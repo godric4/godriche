@@ -53,3 +53,22 @@ export const todayGrills = [
     desc: 'Roasted pork loin',
   },
 ];
+
+export const links = [
+  {
+    label: 'Contact ',
+    path: '/contact',
+  },
+  {
+    label: 'Contact ',
+    path: '/contact',
+  },
+  {
+    label: 'Contact ',
+    path: '/contact',
+  },
+  {
+    label: 'Contact ',
+    path: '/contact',
+  },
+];

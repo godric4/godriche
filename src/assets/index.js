@@ -7,6 +7,7 @@ import barSpace from './images/barSpace.webp';
 import roastedPork from './images/Roasted-Pork-Loin.webp';
 import bar from './images/bar.webp';
 import brandysing from './images/brandysing.webp';
+import chicken from './images/chicken.webp';
 
 export {
   headerBg,
@@ -18,4 +19,5 @@ export {
   roastedPork,
   bar,
   brandysing,
+  chicken,
 };

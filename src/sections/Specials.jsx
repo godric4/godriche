@@ -12,7 +12,7 @@ const Specials = () => {
       <div className='container flex max-sm:flex-col items-center justify-center gap-6 mt-5'>
         {/*  */}
         <div
-          className='w-[22rem] relat'
+          className='w-[22rem] '
           style={{
             backgroundImage: `url(${roastedPork})`,
             backgroundSize: 'cover',

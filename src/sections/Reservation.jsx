@@ -2,7 +2,7 @@ import { BigTitle, Title, Button } from '../components';
 
 const Reservation = () => {
   return (
-    <section className=' pt-12 bg-black pb-12'>
+    <section className='  '>
       <div className='container'>
         <Title label='Reservations' />
         <BigTitle label=' Book A Table' />
