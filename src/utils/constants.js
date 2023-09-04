@@ -36,6 +36,11 @@ export const todayDrinks = [
     price: '17,000',
     desc: ' Mineral Water| Fruit Punch | Ginger beer | Slice of lime',
   },
+  {
+    name: 'Kunu Aya',
+    price: '2000',
+    desc: ' Condensed Milk | Roasted Cashew Nuts | peanuts | Tiger Nuts  Blend',
+  },
 ];
 
 export const todayGrills = [
@@ -63,6 +68,11 @@ export const todayGrills = [
     name: 'Cuy Loin',
     price: '17,000',
     desc: 'Roasted pork loin',
+  },
+  {
+    name: 'Calamari',
+    price: '13,000',
+    desc: 'Boiled Pork Blood Sausage',
   },
 ];
 

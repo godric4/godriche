@@ -29,10 +29,10 @@ const Specials = () => {
                 return (
                   <li key={name}>
                     <div className='flex'>
-                      <p className=''>{name}</p>
+                      <p className='font-semibold'>{name}</p>
                       <div className='flex justify-center items-center ml-2'>
                         <div className='h-[0.06rem] mx-2 w-[4.6rem] bg-white'></div>
-                        <p className=''>&#8358; {price}</p>
+                        <p className='font-semibold'>&#8358; {price}</p>
                       </div>
                     </div>
                     <p className='text-grey text-[.8rem] -top-2'>{desc}</p>

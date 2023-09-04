@@ -6,7 +6,12 @@ const Footer = () => {
   return (
     <footer className='mt-10  bg-black '>
       <div className='w-full h-60 '>
-        <img src={barSpace} alt='restaurant setting ' className='h-60 w-full' />
+        <img
+          src={barSpace}
+          alt='restaurant setting '
+          loading='lazy'
+          className='h-60 w-full'
+        />
       </div>
       <div className='container flex flex-col xl:flex-row justify-around items-center px-4'>
         {/*  main wrapper*/}
